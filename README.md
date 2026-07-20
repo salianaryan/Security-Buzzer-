@@ -1,4 +1,4 @@
-# Security-Buzzer-
+# Security-Buzzer
 A Security buzzing system that buzzes and lights up when an obstruction is detected.
 
 ## 📋 Features
